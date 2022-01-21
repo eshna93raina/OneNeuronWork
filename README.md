@@ -1,2 +1,2 @@
 # OneNeuronWork
-This Repository contains work / assignments done for OneNeuron Courses. 
+This Repository contains work / assignments taken for OneNeuron Courses. 
